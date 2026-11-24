@@ -4,6 +4,10 @@
 
 [Слайды в PDF](lecture09.pdf) · [Презентация в PowerPoint](source/lecture09.pptx)
 
+[Домашнее задание Lamoda](lamoda/README.md)
+
+[Стартовый ноутбук Lamoda](https://www.kaggle.com/code/nevolinaa/how-to-get-started-lamoda-cu). Сделайте копию, подключите данные соревнования ВШЭ и укажите в `DATA_DIR` путь `/kaggle/input/competitions/lamoda-hse-repeat-purchase-2026`.
+
 ## Идея бустинга
 
 Сравниваем бэггинг и бустинг. В бустинге каждое новое дерево дополняет уже построенный ансамбль. При квадратичной потере дерево учится предсказывать остатки предыдущего прогноза.
