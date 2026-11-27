@@ -32,4 +32,12 @@ AUC также посчитали через пары объектов разн�
 
 [Проверочная 1 и ключ с ответами](check01/README.md)
 
+## Дополнительные материалы
+
+- [Геометрическое и гармоническое средние в Desmos](https://www.desmos.com/3d/mriu4hofot). Можно сравнить значения двух средних при разных precision и recall. Гармоническое среднее здесь равно F1.
+- [А. Г. Дьяконов, «AUC ROC (площадь под кривой ошибок)»](https://alexanderdyakonov.wordpress.com/2017/07/28/auc-roc-площадь-под-кривой-ошибок/). Построение ROC-кривой и вычисление площади на примере.
+- [Веса классов и подбор порога](https://habr.com/ru/companies/kozhindev/articles/953158/). Два способа работать с редким классом при обучении и выборе рабочего порога.
+- [Андерсемплинг](https://imbalanced-learn.org/stable/under_sampling.html) и [оверсемплинг, включая SMOTE](https://habr.com/ru/companies/kozhindev/articles/968714/). Способы изменить доли классов в обучающей выборке.
+- [Hard Negative Mining](https://www.ultralytics.com/ru/glossary/hard-negative-mining). Отбор для обучения сложных отрицательных примеров, например обычных писем, которые модель уверенно принимает за спам.
+
 [Исходник PPTX](source/lecture05.pptx) · [К курсу](../README.md)

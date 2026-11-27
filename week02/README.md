@@ -50,4 +50,9 @@
 
 Данные встроены в ноутбук.
 
+## Дополнительные материалы
+
+- [Спектральные методы и матричные разложения](https://education.yandex.ru/handbook/math/article/spektralnie-metodi-i-matrichnie-razlozheniia). Материал Хэндбука Яндекса про SVD, QR и устойчивость вычислений.
+- [Кевин Мёрфи, Probabilistic Machine Learning: An Introduction](https://probml.github.io/book1). Разделы про SVD, псевдообратную матрицу, QR и их связь с методом наименьших квадратов.
+
 [Исходник PPTX](source/lecture02.pptx) · [К курсу](../README.md)
